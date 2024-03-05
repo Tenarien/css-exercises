@@ -1,0 +1,18 @@
+p {
+    background-color: hsl(337, 79%, 87%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+p.cooler {
+    font-size: 24px;
+}
+
+div#first {
+    color: hsl(244, 100%, 50%);
+    font-size: 36px;
+}
+
+div#second {
+    background-color: hsl(120, 86%, 86%);
+    font-weight: bold;
+    font-size: 24px;
+}
